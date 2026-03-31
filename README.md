@@ -27,6 +27,3 @@ Reads a log file and counts the number of error entries.
 ### 5. Open Source Manifesto Generator
 Takes user input and generates a personalized open-source philosophy statement.
 
-## How to Run Scripts
-
-Make scripts executable:
