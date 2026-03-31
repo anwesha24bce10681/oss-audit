@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Your Name  
+Name: Anwesha rout  
 Registration Number: 24BCE10681  
 
 ## Chosen Software
